@@ -1,5 +1,8 @@
 http 方式提供 sql 解析的功能
 
 1、返回sql类型
+    - c/u/i/d/r
+    - stmt
 2、返回格式化的sql
-3、json格式
+3、sql特征，完整sql转化为 stmt 进行归类
+4、json格式
